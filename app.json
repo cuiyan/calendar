@@ -4,8 +4,9 @@
   ],
   "window":{
     "backgroundTextStyle":"light",
-    "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
-    "navigationBarTextStyle":"black"
-  }
+    "navigationBarBackgroundColor": "#3e3e3e",
+    "navigationBarTitleText": "万年历",
+    "navigationBarTextStyle":"white"
+  },
+  "debug": true
 }
